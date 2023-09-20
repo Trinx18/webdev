@@ -1,0 +1,41 @@
+div{
+    text-align: center;
+    padding: 30px;
+    background-color: green;
+}
+div a{
+    text-decoration: palevioletred;
+    font-weight: bold;
+    color: black;
+}
+
+#spacing{
+    padding: 10px;
+}
+#search{
+    width: 200px;
+    height: 20;
+    border-radius: 1px;
+}
+
+#buttonSearch{
+    width: 60px;
+    height: 21px;
+    background-color: blue;
+    color: gold;
+}
+
+#pic{
+    max-width: 100%;
+    height: auto;
+}
+
+#heading{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+#align{
+    text-align: right;
+}
